@@ -1,7 +1,7 @@
 // Code your solution in this file!
 const returnFirstTwoDrivers = function (drivers) {
-  const firstTwo = drivers.slice(0, 2)
-  return firstTwo
+  return drivers.slice(0, 2)
+  
 }
 
 const returnLastTwoDrivers = function(drivers) {
